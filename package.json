@@ -1,0 +1,40 @@
+{
+  "name": "pernle",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "inquirer": "^12.5.0",
+    "uuid": "^11.1.0"
+  },
+  "author": "Pimatis Labs.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pimatis/pernle.git"
+  },
+  "keywords": [
+    "cli",
+    "typescript",
+    "bun",
+    "utility",
+    "developer-tools",
+    "todo",
+    "task-management",
+    "productivity",
+    "command-line",
+    "terminal",
+    "node",
+    "javascript",
+    "task-list",
+    "todo-app",
+    "organization"
+  ]
+}
